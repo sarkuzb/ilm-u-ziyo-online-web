@@ -238,13 +238,13 @@ export default function HomePage() {
         <Container>
           <div className="flex flex-wrap items-end justify-between gap-6">
             <SectionHeading
-              eyebrow="Platforma afzalliklari"
+              eyebrow="Ilova afzalliklari"
               eyebrowIcon={Sparkles}
               title="Oʻqish uchun kerakli hamma narsa"
               lead="Ilova oʻquvchiga mustaqil, lekin nazorat ostida oʻqish imkonini beradi."
             />
             <ButtonLink href="/platforma" variant="secondary">
-              Platforma haqida
+              Ilova haqida
               <ArrowRight className="size-4" aria-hidden />
             </ButtonLink>
           </div>

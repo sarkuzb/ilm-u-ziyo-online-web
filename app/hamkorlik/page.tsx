@@ -87,7 +87,7 @@ export default function PartnershipPage() {
             </div>
             <div className="mt-8 flex flex-wrap gap-3">
               <ButtonLink href="/platforma" variant="secondary">
-                Platforma haqida
+                Ilova haqida
               </ButtonLink>
               <ButtonLink href="/kurslar" variant="secondary">
                 Barcha kurslar

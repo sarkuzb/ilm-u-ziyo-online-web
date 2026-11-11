@@ -32,7 +32,7 @@ export const site = {
 
 export const nav = [
   { label: "Kurslar", href: "/kurslar" },
-  { label: "Platforma", href: "/platforma" },
+  { label: "Ilova haqida", href: "/platforma" },
   { label: "Mutaxassislar", href: "/mutaxassislar" },
   { label: "Natijalar", href: "/natijalar" },
   { label: "Hamkorlik", href: "/hamkorlik" },

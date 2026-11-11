@@ -72,7 +72,7 @@ export default function ResultsPage() {
           <div className="mt-10 flex flex-wrap gap-3">
             <ButtonLink href="/mutaxassislar">Mutaxassislar bilan tanishish</ButtonLink>
             <ButtonLink href="/platforma" variant="secondary">
-              Platforma haqida
+              Ilova haqida
             </ButtonLink>
           </div>
         </Container>

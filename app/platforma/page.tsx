@@ -6,7 +6,7 @@ import { Container, IconTile, SectionHeading } from "@/components/ui";
 import { features } from "@/content/features";
 
 export const metadata: Metadata = {
-  title: "Platforma haqida",
+  title: "Ilova haqida",
   description:
     "Ilm-u Ziyo Online ilovasi qanday ishlaydi: videodarslar, oʻquv qoʻllanmalari, test tizimi, rivojlanishni kuzatish, eslatmalar va Telegram guruhlari.",
   alternates: { canonical: "/platforma" },
@@ -16,7 +16,7 @@ export default function PlatformPage() {
   return (
     <>
       <PageHero
-        eyebrow="Platforma haqida"
+        eyebrow="Ilova haqida"
         eyebrowIcon={Smartphone}
         title="Ilovada taʼlim qanday tashkil etilgan"
         lead="Ilm-u Ziyo Online — Android va iOS uchun mobil ilova. Oʻquvchi videodarslarni koʻradi, qoʻllanmalar bilan ishlaydi, testlar orqali bilimini mustahkamlaydi va oʻsishini kuzatib boradi."
