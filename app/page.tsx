@@ -117,8 +117,8 @@ export default function HomePage() {
               bilim oling
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted sm:text-xl">
-              Ilm-u Ziyo Online — 15 yildan ortiq taʼlim tajribasiga asoslangan mobil ilova.
-              Videodarslar, oʻquv qoʻllanmalari va testlar bir joyda.
+              Ilm-u Ziyo Online — 15 yildan ortiq tajribaga ega Ilm-u Ziyo tashkilotining yangi
+              mobil ilovasi. Videodarslar, oʻquv qoʻllanmalari va testlar bir joyda.
             </p>
 
             <StoreButtons className="mt-8" />
@@ -134,7 +134,10 @@ export default function HomePage() {
               />
             </Link>
 
-            <ul className="mt-10 grid max-w-xl grid-cols-3 gap-4 border-t border-line pt-7">
+            <p className="mt-10 max-w-xl border-t border-line pt-6 text-[13px] font-semibold tracking-wide text-brand-800 uppercase">
+              Ilm-u Ziyo tashkiloti raqamlarda
+            </p>
+            <ul className="mt-4 grid max-w-xl grid-cols-3 gap-4">
               {stats.map((stat) => (
                 <li key={stat.label}>
                   <p className="text-2xl font-bold tracking-tight text-ink tabular-nums sm:text-3xl">
@@ -287,8 +290,8 @@ export default function HomePage() {
             <SectionHeading
               eyebrow="Ishonch asoslari"
               eyebrowIcon={TrendingUp}
-              title="15 yildan ortiq tajriba ortida turgan natijalar"
-              lead="Ilm-u Ziyo Online — tashkilotning koʻp yillik taʼlim tajribasi asosida yaratilgan."
+              title="Ilm-u Ziyo tashkilotining 15 yillik tajribasi"
+              lead="Ilm-u Ziyo Online — tashkilotning yangi onlayn taʼlim tizimi. Uning ortida tashkilotning koʻp yillik tajribasi turadi."
             />
             <ButtonLink href="/natijalar" variant="secondary">
               Natijalar

@@ -7,7 +7,7 @@ export const site = {
   organization: "Ilm-u Ziyo",
   tagline: "Onlayn taʼlim tizimi",
   description:
-    "Ilm-u Ziyo Online — Ilm-u Ziyo tashkilotining koʻp yillik tajribasiga asoslangan onlayn taʼlim tizimi. Videodarslar, oʻquv qoʻllanmalari va testlar bitta mobil ilovada.",
+    "Ilm-u Ziyo Online — 15 yildan ortiq tajribaga ega Ilm-u Ziyo tashkilotining yangi onlayn taʼlim tizimi. Videodarslar, oʻquv qoʻllanmalari va testlar bitta mobil ilovada.",
 
   // Domen ulangach, Vercel'da NEXT_PUBLIC_SITE_URL oʻzgaruvchisini kiriting (masalan: https://ilmuziyo.uz).
   url:

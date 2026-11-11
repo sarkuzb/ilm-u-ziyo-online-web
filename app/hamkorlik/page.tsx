@@ -76,8 +76,8 @@ export default function PartnershipPage() {
             <SectionHeading title="Ilm-u Ziyo Online haqida" />
             <div className="mt-6 space-y-4 text-lg leading-relaxed text-muted">
               <p>
-                Ilm-u Ziyo Online — Ilm-u Ziyo tashkilotining taʼlim sohasidagi koʻp yillik
-                tajribasiga asoslangan zamonaviy onlayn taʼlim tizimi.
+                Ilm-u Ziyo Online — Ilm-u Ziyo tashkilotining yangi onlayn taʼlim tizimi.
+                Tashkilotning oʻzi taʼlim sohasida 15 yildan ortiq tajribaga ega.
               </p>
               <p>
                 Tizim oʻquvchilarga oʻzlariga qulay vaqtda taʼlim olish, videodarslar orqali bilim

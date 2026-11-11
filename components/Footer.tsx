@@ -13,7 +13,7 @@ export function Footer() {
         <div>
           <Logo />
           <p className="mt-5 max-w-xs text-[15px] leading-relaxed text-muted">
-            Ilm-u Ziyo tashkilotining koʻp yillik tajribasiga asoslangan onlayn taʼlim tizimi.
+            15 yildan ortiq tajribaga ega Ilm-u Ziyo tashkilotining yangi onlayn taʼlim tizimi.
           </p>
           <StoreButtons className="mt-6" />
         </div>

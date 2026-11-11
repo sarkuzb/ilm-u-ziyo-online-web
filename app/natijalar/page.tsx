@@ -13,8 +13,8 @@ export const metadata: Metadata = {
 const reasons = [
   {
     icon: History,
-    title: "Koʻp yillik tajriba",
-    text: "Ilm-u Ziyo Online — Ilm-u Ziyo tashkilotining taʼlim sohasidagi 15 yildan ortiq tajribasiga asoslangan.",
+    title: "Tashkilot tajribasi",
+    text: "Ilm-u Ziyo tashkiloti taʼlim sohasida 15 yildan ortiq faoliyat yuritadi. Ilm-u Ziyo Online — uning yangi onlayn yoʻnalishi.",
   },
   {
     icon: Users,
@@ -40,7 +40,7 @@ export default function ResultsPage() {
         eyebrow="Natijalar"
         eyebrowIcon={TrendingUp}
         title="Raqamlarda Ilm-u Ziyo"
-        lead="Ilm-u Ziyo Online ortida tashkilotning koʻp yillik taʼlim tajribasi turadi."
+        lead="Ilm-u Ziyo Online — yangi onlayn taʼlim tizimi. Uning ortida Ilm-u Ziyo tashkilotining 15 yildan ortiq tajribasi turadi."
       />
 
       <section className="py-16 sm:py-24">
